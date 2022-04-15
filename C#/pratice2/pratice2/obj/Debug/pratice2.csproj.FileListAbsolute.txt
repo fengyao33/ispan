@@ -1,0 +1,9 @@
+C:\Users\iii\Desktop\上課\C#\pratice2\pratice2\obj\Debug\pratice2.csprojAssemblyReference.cache
+C:\Users\iii\Desktop\上課\C#\pratice2\pratice2\obj\Debug\pratice2.csproj.CoreCompileInputs.cache
+C:\Users\iii\Desktop\class\C#\pratice2\pratice2\obj\Debug\pratice2.csprojAssemblyReference.cache
+C:\Users\iii\Desktop\class\C#\pratice2\pratice2\obj\Debug\pratice2.csproj.CoreCompileInputs.cache
+C:\Users\iii\Desktop\class\C#\pratice2\pratice2\bin\Debug\pratice2.exe.config
+C:\Users\iii\Desktop\class\C#\pratice2\pratice2\bin\Debug\pratice2.exe
+C:\Users\iii\Desktop\class\C#\pratice2\pratice2\bin\Debug\pratice2.pdb
+C:\Users\iii\Desktop\class\C#\pratice2\pratice2\obj\Debug\pratice2.exe
+C:\Users\iii\Desktop\class\C#\pratice2\pratice2\obj\Debug\pratice2.pdb

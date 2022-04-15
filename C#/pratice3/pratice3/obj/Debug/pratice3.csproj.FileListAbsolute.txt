@@ -1,0 +1,7 @@
+C:\Users\iii\Desktop\class\C#\pratice3\pratice3\obj\Debug\pratice3.csprojAssemblyReference.cache
+C:\Users\iii\Desktop\class\C#\pratice3\pratice3\obj\Debug\pratice3.csproj.CoreCompileInputs.cache
+C:\Users\iii\Desktop\class\C#\pratice3\pratice3\bin\Debug\pratice3.exe.config
+C:\Users\iii\Desktop\class\C#\pratice3\pratice3\bin\Debug\pratice3.exe
+C:\Users\iii\Desktop\class\C#\pratice3\pratice3\bin\Debug\pratice3.pdb
+C:\Users\iii\Desktop\class\C#\pratice3\pratice3\obj\Debug\pratice3.exe
+C:\Users\iii\Desktop\class\C#\pratice3\pratice3\obj\Debug\pratice3.pdb
